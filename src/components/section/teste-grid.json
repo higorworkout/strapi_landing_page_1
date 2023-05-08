@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section_teste_grid_s",
+  "info": {
+    "displayName": "Teste-grid "
+  },
+  "options": {},
+  "attributes": {
+    "title1": {
+      "type": "string",
+      "required": true
+    },
+    "description1": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
